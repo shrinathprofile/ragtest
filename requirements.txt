@@ -1,0 +1,9 @@
+Pymupdf
+langchain
+numpy
+ollama
+Pillow
+PyPDF2
+pytesserac
+streamlit
+streamlit_feedback
